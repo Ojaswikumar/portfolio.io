@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a personal portfolio website built using HTML, CSS, and JavaScript. The website showcases projects, experience, and skills in a clean and professional design. It is designed to provide a comprehensive view of the developer's capabilities and work.
+This is a personal portfolio website built using HTML, CSS, and JavaScript. The website showcases projects, experience, and skills in a clean and professional design. It is designed to provide a comprehensive view of my capabilities and work.
 
 ## Features
 
